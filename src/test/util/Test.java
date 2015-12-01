@@ -9,6 +9,7 @@ public class Test {
 		Integer e = 4444;
 		Integer f = 4444;
 		
+		
 		Integer g=1;
 
 		System.out.println(a==b);
