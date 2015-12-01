@@ -7,7 +7,7 @@ public class Test {
 		Integer c = 2;
 		Integer d = 2;
 		Integer e = 4444;
-		Integer f = 4444;
+		Integer f = 3333;
 		
 		
 		Integer g=1;
