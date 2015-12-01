@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<message>
+		<status>0</status>
+		<value>处理成功</value>
+	</message>
+	<chinaTelecomUnicomInfos>
+		<chinaTelecomUnicomInfo telNum="02032070210"
+			name="广州市尧丰纸业有限公司" address="北京海淀区" version="11111111">
+			<message>
+				<status>0</status>
+				<value>查询成功</value>
+			</message>
+			<telInput desc="电话">02032070210</telInput>
+			<nameInput desc="名称">广州市尧丰纸业有限公司</nameInput>
+			<addressInput desc="地址">北京海淀区</addressInput>
+			<uniqueNum desc="唯一标识">11111111</uniqueNum>
+			<areaCode desc="区域名称">广州</areaCode>
+			<queryResult desc="查询结果">查询成功_有数据</queryResult>
+			<queryType desc="查询类型">0001</queryType>
+			<corpTel desc="查得电话">02032070210</corpTel>
+			<corpName desc="查得名称">尧丰纸业有限公司</corpName>
+			<corpAddress desc="查得地址">广州市黄埔区南基工业村西区 2 号
+			</corpAddress>
+		</chinaTelecomUnicomInfo>
+	</chinaTelecomUnicomInfos>
+</data> 
